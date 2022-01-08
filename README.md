@@ -1,0 +1,2 @@
+# SeimVueProject
+Seim.az
